@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "name": "Leanne Graham",
-        "username": "Bret",
-        "email": "Sincere@april.biz",
+        "name": "Bharath",
+        "username": "Mr_Bharath_vaj",
+        "email": "bharathvajt.it2020@gmail.com",
         "address": {
             "street": "Kulas Light",
             "suite": "Apt. 556",
-            "city": "Gwenborough",
-            "zipcode": "92998-3874",
+            "city": "Tiruppur",
+            "zipcode": "641-655",
             "geo": {
                 "lat": "-37.3159",
                 "lng": "81.1496"
             }
         },
-        "phone": "1-770-736-8031 x56442",
+        "phone": "8610379862",
         "website": "hildegard.org",
         "company": {
             "name": "Romaguera-Crona",
@@ -24,20 +24,20 @@
     },
     {
         "id": 2,
-        "name": "Ervin Howell",
-        "username": "Antonette",
-        "email": "Shanna@melissa.tv",
+        "name": "NandhaKumar",
+        "username": "nandha",
+        "email": "nandha@gmail.com",
         "address": {
-            "street": "Victor Plains",
+            "street": "sallaipalayam",
             "suite": "Suite 879",
-            "city": "Wisokyburgh",
-            "zipcode": "90566-7771",
+            "city": "Tiruppur",
+            "zipcode": "641-655",
             "geo": {
                 "lat": "-43.9509",
                 "lng": "-34.4618"
             }
         },
-        "phone": "010-692-6593 x09125",
+        "phone": "9791898448",
         "website": "anastasia.net",
         "company": {
             "name": "Deckow-Crist",
@@ -47,20 +47,20 @@
     },
     {
         "id": 3,
-        "name": "Clementine Bauch",
-        "username": "Samantha",
-        "email": "Nathan@yesenia.net",
+        "name": "Sasitharan",
+        "username": "sasi_barni",
+        "email": "sasi@gmail.com",
         "address": {
             "street": "Douglas Extension",
             "suite": "Suite 847",
-            "city": "McKenziehaven",
-            "zipcode": "59590-4157",
+            "city": "Erode",
+            "zipcode": "641-654",
             "geo": {
                 "lat": "-68.6102",
                 "lng": "-47.0653"
             }
         },
-        "phone": "1-463-123-4447",
+        "phone": "6381564768",
         "website": "ramiro.info",
         "company": {
             "name": "Romaguera-Jacobson",
@@ -70,20 +70,20 @@
     },
     {
         "id": 4,
-        "name": "Patricia Lebsack",
-        "username": "Karianne",
-        "email": "Julianne.OConner@kory.org",
+        "name": "Libitharan",
+        "username": "libi",
+        "email": "libi@gmail.com",
         "address": {
-            "street": "Hoeger Mall",
+            "street": "Kallipatti",
             "suite": "Apt. 692",
-            "city": "South Elvis",
+            "city": "Erode",
             "zipcode": "53919-4257",
             "geo": {
                 "lat": "29.4572",
                 "lng": "-164.2990"
             }
         },
-        "phone": "493-170-9623 x156",
+        "phone": "9786820039",
         "website": "kale.biz",
         "company": {
             "name": "Robel-Corkery",
@@ -93,20 +93,20 @@
     },
     {
         "id": 5,
-        "name": "Chelsey Dietrich",
-        "username": "Kamren",
-        "email": "Lucio_Hettinger@annie.ca",
+        "name": "AbdulRaheem",
+        "username": "jbrRaheem",
+        "email": "jbrRaheem@gmail.com",
         "address": {
             "street": "Skiles Walks",
             "suite": "Suite 351",
-            "city": "Roscoeview",
-            "zipcode": "33263",
+            "city": "Tiruppur",
+            "zipcode": "641-655",
             "geo": {
                 "lat": "-31.8129",
                 "lng": "62.5342"
             }
         },
-        "phone": "(254)954-1289",
+        "phone": "7305684591",
         "website": "demarco.info",
         "company": {
             "name": "Keebler LLC",
@@ -116,20 +116,20 @@
     },
     {
         "id": 6,
-        "name": "Mrs. Dennis Schulist",
-        "username": "Leopoldo_Corkery",
-        "email": "Karley_Dach@jasper.info",
+        "name": "Jayaprakash",
+        "username": "mala",
+        "email": "mala@gmail.com",
         "address": {
             "street": "Norberto Crossing",
             "suite": "Apt. 950",
-            "city": "South Christy",
-            "zipcode": "23505-1337",
+            "city": "coimbatore",
+            "zipcode": "641-048",
             "geo": {
                 "lat": "-71.4197",
                 "lng": "71.7478"
             }
         },
-        "phone": "1-477-935-8478 x6430",
+        "phone": "7904192073",
         "website": "ola.org",
         "company": {
             "name": "Considine-Lockman",
@@ -139,14 +139,14 @@
     },
     {
         "id": 7,
-        "name": "Kurtis Weissnat",
-        "username": "Elwyn.Skiles",
-        "email": "Telly.Hoeger@billy.biz",
+        "name": "Karthick",
+        "username": "karthi",
+        "email": "karthi@gmail.com",
         "address": {
             "street": "Rex Trail",
             "suite": "Suite 280",
-            "city": "Howemouth",
-            "zipcode": "58804-1099",
+            "city": "coimbatore",
+            "zipcode": "641-048",
             "geo": {
                 "lat": "24.8918",
                 "lng": "21.8984"
@@ -162,13 +162,13 @@
     },
     {
         "id": 8,
-        "name": "Nicholas Runolfsdottir V",
-        "username": "Maxime_Nienow",
-        "email": "Sherwood@rosamond.me",
+        "name": "Surya",
+        "username": "sd",
+        "email": "sd@gmail.com",
         "address": {
             "street": "Ellsworth Summit",
             "suite": "Suite 729",
-            "city": "Aliyaview",
+            "city": "Tiruppur",
             "zipcode": "45169",
             "geo": {
                 "lat": "-14.3990",
@@ -185,13 +185,13 @@
     },
     {
         "id": 9,
-        "name": "Glenna Reichert",
-        "username": "Delphine",
-        "email": "Chaim_McDermott@dana.io",
+        "name": "Ganapathy Ram",
+        "username": "Ram",
+        "email": "ram@gmail.com",
         "address": {
             "street": "Dayna Park",
             "suite": "Suite 449",
-            "city": "Bartholomebury",
+            "city": "Erode",
             "zipcode": "76495-3109",
             "geo": {
                 "lat": "24.6463",
@@ -208,13 +208,13 @@
     },
     {
         "id": 10,
-        "name": "Clementina DuBuque",
-        "username": "Moriah.Stanton",
-        "email": "Rey.Padberg@karina.biz",
+        "name": "Jeeva",
+        "username": "jeevs",
+        "email": "jeeva@gmail.com",
         "address": {
             "street": "Kattie Turnpike",
             "suite": "Suite 198",
-            "city": "Lebsackbury",
+            "city": "Tiruppur",
             "zipcode": "31428-2261",
             "geo": {
                 "lat": "-38.2386",
